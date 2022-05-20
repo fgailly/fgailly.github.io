@@ -16,6 +16,7 @@ author: Frederik Gailly
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
+  Education: "education"
   Resources:
     - UGent Business Informatics: "https://businessinformatics.ugent.be"
     - UGent Faculty of Economics and Business Administration: "https://www.ugent.be/eb/"
